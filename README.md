@@ -42,14 +42,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
 height="50" width="210" alt="LeoColman" /></a></p><br><br>
 
-<p><img
+<img
  align="left" 
 src="https://github-readme-stats.vercel.app/api/top-langs?username=leocolman&show_icons=true&locale=en&layout=compact"
- alt="leocolman" /></p>
-
-<p>&nbsp;<img 
+ alt="leocolman" />
+<img 
 align="center" 
 src="https://github-readme-stats.vercel.app/api?username=leocolman&show_icons=true&locale=en"
- alt="leocolman" /></p>
+ alt="leocolman" />
 
 
