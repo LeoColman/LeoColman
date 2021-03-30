@@ -42,5 +42,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
 height="50" width="210" alt="LeoColman" /></a></p><br><br>
 
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoColman)](https://github.com/anuraghazra/github-readme-stats?show_icons=true&include_all_commits=true)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoColman&show_icons=true&include_all_commits=true)
 
