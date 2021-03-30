@@ -28,7 +28,6 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" 
 alt="kotlin" width="40" height="40"/>
         </a>
-         
         <a href="https://www.linux.org/" target="_blank">
           <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
