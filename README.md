@@ -47,7 +47,7 @@ height="50" width="210" alt="LeoColman" /></a></p><br><br>
 src="https://github-readme-stats.vercel.app/api/top-langs?username=leocolman&show_icons=true&locale=en&layout=compact"
  alt="leocolman" />
 <img 
-align="center" 
+align="right" 
 src="https://github-readme-stats.vercel.app/api?username=leocolman&show_icons=true&locale=en"
  alt="leocolman" />
 
