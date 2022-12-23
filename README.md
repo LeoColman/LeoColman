@@ -42,5 +42,17 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
 height="50" width="210" alt="LeoColman" /></a></p><br><br>
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoColman&show_icons=true&include_all_commits=true)
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeoColman&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoColman&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeoColman&theme=default)  |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoColman&theme=default) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeoColman&mode=weekly)](https://git.io/streak-stats) |
+| :-: | :-: |
+
+
+
+
+
+
+ 
 
