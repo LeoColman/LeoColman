@@ -1,41 +1,15 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">Leonardo Colman Lopes, a passionate Kotlin developer from Brazil</h3>
+<h3 align="center">Leonardo Colman Lopes, a passionate Kotlin developer from Brazil. Currently living in Montreal - Canada</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a
- href="https://dev.to/leocolman" target="blank"><img 
-align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
- alt="leocolman" height="30" width="40" /></a>
-<a 
-href="https://linkedin.com/in/leonardo-colman-lopes-84bb84115" 
-target="blank"><img align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
- alt="leonardo-colman-lopes-84bb84115" height="30" width="40" 
-/></a>
-<a href="https://stackoverflow.com/users/4257162" 
-target="blank"><img align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
- alt="4257162" height="30" width="40" /></a>
-</p>
+<h4 align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p
- align="left">
-        <a href="https://kotlinlang.org" target="_blank">
-          <img 
-src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" 
-alt="kotlin" width="40" height="40"/>
-        </a>
-        <a href="https://www.linux.org/" target="_blank">
-          <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
- alt="linux" width="40" height="40"/>
-        </a>
-        </p>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/LeoColman)](https://www.linkedin.com/in/leocolman/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lcolman)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/4257162?style=for-the-badge)](https://stackoverflow.com/users/4257162/leocolman)
 
-<h3 align="left">Support:</h3>
+</h4>
+
+<h3 align="left">Buy me a coffee ☕:</h3>
 <p><a
  href="https://www.buymeacoffee.com/LeoColman">
       <img align="left" 
