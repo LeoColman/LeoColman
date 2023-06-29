@@ -6,6 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/LeoColman)](https://www.linkedin.com/in/leocolman/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lcolman)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/4257162?style=for-the-badge)](https://stackoverflow.com/users/4257162/leocolman)
+[![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fleonardo.colman.com.br%2F&label=leonardo.colman.com.br)](https://leonardo.colman.com.br)
+
 
 </h4>
 
