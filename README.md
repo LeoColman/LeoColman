@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">Leonardo Colman Lopes, a passionate Kotlin developer from Brazil. Currently living in Montreal - Canada</h3>
+<h3 align="center">Leonardo Colman Lopes, a passionate Kotlin developer from Brazil. Currently in São Paulo - Brazil</h3>
 
 <h4 align="center">
 
