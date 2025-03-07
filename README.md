@@ -22,7 +22,7 @@ height="50" width="210" alt="LeoColman" /></a></p><br><br>
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeoColman&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeoColman&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeoColman&theme=default)  |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoColman&theme=default) | [![GitHub Streak](https://streak-stats.demolab.com?user=LeoColmaneoColman&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeoColman&theme=default) | [![GitHub Streak](https://github-readme-streak-stats.colman.com.br?user=LeoColman&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 
